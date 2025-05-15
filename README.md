@@ -32,7 +32,7 @@ trailtales/
 ## 🖼️ Project Screenshots
 
 ### 🧭 Desktop View
-![Desktop Screenshot](root/Lena's website 2.jpg)
+![Desktop Screenshot](root/Lena's website 2.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](root/Lena's website 2.jpg)
+![Mobile Screenshot](root/Lena's website 2.png)
