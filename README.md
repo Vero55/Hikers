@@ -28,3 +28,6 @@ trailtales/
 │
 ├── index.html
 └── README.md
+
+![Homepage Screenshot](https://github.com/vero55/trailtales/raw/main/Lena's_website_2.png)
+
