@@ -29,3 +29,10 @@ trailtales/
 ├── index.html
 └── README.md
 
+## 🖼️ Project Screenshots
+
+### 🧭 Desktop View
+![Desktop Screenshot](root/Lena's website 2.jpg)
+
+### 📱 Mobile View
+![Mobile Screenshot](root/Lena's website 2.jpg)
